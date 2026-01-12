@@ -32,9 +32,9 @@ odin-recipes/
 │
 ├── index.html
 ├── recipes/
-│ ├── recipe1.html
-│ ├── recipe2.html
-│ └── recipe3.html
+│ ├── lasagna.html
+│ ├── pot-chicken-and-dumplings.html
+│ └── strawberry-oatmeal-smoothie.html
 └── images/
 
 ```
